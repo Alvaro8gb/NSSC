@@ -1,0 +1,1439 @@
+[
+    {
+        "term": "metastasis",
+        "context": "Metastasis",
+        "cuis": [
+            "C0027627",
+            "C4255448",
+            "C2939420"
+        ]
+    },
+    {
+        "term": "micrometastasis",
+        "context": "Metastasis",
+        "cuis": [
+            "C1513276"
+        ]
+    },
+    {
+        "term": "progresion",
+        "context": "Metastasis",
+        "cuis": [
+            "C0178874"
+        ]
+    },
+    {
+        "term": "invasion",
+        "context": "Metastasis",
+        "cuis": [
+            "C1269955"
+        ]
+    },
+    {
+        "term": "infiltracion",
+        "context": "Metastasis",
+        "cuis": [
+            "C0332448",
+            "C0702249"
+        ]
+    },
+    {
+        "term": "afeccion",
+        "context": "Metastasis",
+        "cuis": [
+            "C0012634"
+        ]
+    },
+    {
+        "term": "lesion",
+        "context": "Recaida de un tumor",
+        "cuis": [
+            "C0221198"
+        ]
+    },
+    {
+        "term": "recaida",
+        "context": "Recaida de un tumor",
+        "cuis": [
+            "C0035020"
+        ]
+    },
+    {
+        "term": "recidiva",
+        "context": "Recaida de un tumor",
+        "cuis": [
+            "C0035020",
+            "C0034897",
+            "C2825055"
+        ]
+    },
+    {
+        "term": "regresion",
+        "context": "Metastasis",
+        "cuis": [
+            "C0684320",
+            "C0920421"
+        ]
+    },
+    {
+        "term": "linfadenectomia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0024203"
+        ]
+    },
+    {
+        "term": "mastectomia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0024881"
+        ]
+    },
+    {
+        "term": "tumorectomia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C3267186",
+            "C0851238"
+        ]
+    },
+    {
+        "term": "biopsia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0005558"
+        ]
+    },
+    {
+        "term": "reconstruccion",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0524865"
+        ]
+    },
+    {
+        "term": "talcaje",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0189557"
+        ]
+    },
+    {
+        "term": "tratamiento hormonal",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0279025"
+        ]
+    },
+    {
+        "term": "hormonoterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0279025"
+        ]
+    },
+    {
+        "term": "radioterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C1522449"
+        ]
+    },
+    {
+        "term": "quimioterapia neoadyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C5392214"
+        ]
+    },
+    {
+        "term": "tratamiento conservador",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0459914"
+        ]
+    },
+    {
+        "term": "cirugia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0543467"
+        ]
+    },
+    {
+        "term": "quimioterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C3665472"
+        ]
+    },
+    {
+        "term": "radioterapia adyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0242939"
+        ]
+    },
+    {
+        "term": "quimioradioterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0436307"
+        ]
+    },
+    {
+        "term": "neoadyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0600558"
+        ]
+    },
+    {
+        "term": "fotoquimioterapia extracorporea",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0206373"
+        ]
+    },
+    {
+        "term": "fotoquimioterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0031740"
+        ]
+    },
+    {
+        "term": "tac",
+        "context": "Regimen",
+        "cuis": [
+            ""
+        ]
+    },
+    {
+        "term": "tac",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0040405"
+        ]
+    },
+    {
+        "term": "quimioterapia adyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0085533"
+        ]
+    },
+    {
+        "term": "terapia neoadyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0600558"
+        ]
+    },
+    {
+        "term": "radioterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C1522449"
+        ]
+    },
+    {
+        "term": "terapia adyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0677850"
+        ]
+    },
+    {
+        "term": "terapia adyuvante",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0677850"
+        ]
+    },
+    {
+        "term": "imunoterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0021083"
+        ]
+    },
+    {
+        "term": "trasplante de m\u00e9dula \u00f3sea",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0005961"
+        ]
+    },
+    {
+        "term": "abraxane",
+        "context": "Drug",
+        "cuis": [
+            "C1564985"
+        ]
+    },
+    {
+        "term": "avastin",
+        "context": "Drug",
+        "cuis": [
+            "C1135130"
+        ]
+    },
+    {
+        "term": "adriamicina",
+        "context": "Drug",
+        "cuis": [
+            "C0085752"
+        ]
+    },
+    {
+        "term": "paclitaxel",
+        "context": "Drug",
+        "cuis": [
+            "C0144576"
+        ]
+    },
+    {
+        "term": "capecitabina",
+        "context": "Drug",
+        "cuis": [
+            "C0671970"
+        ]
+    },
+    {
+        "term": "ciclofosfamida",
+        "context": "Drug",
+        "cuis": [
+            "C0010583"
+        ]
+    },
+    {
+        "term": "taxotere",
+        "context": "Drug",
+        "cuis": [
+            "C0699967"
+        ]
+    },
+    {
+        "term": "anastrozol",
+        "context": "Drug",
+        "cuis": [
+            "C0290883"
+        ]
+    },
+    {
+        "term": "carboplatino",
+        "context": "Drug",
+        "cuis": [
+            "C0079083"
+        ]
+    },
+    {
+        "term": "taxol",
+        "context": "Drug",
+        "cuis": [
+            "C0678133"
+        ]
+    },
+    {
+        "term": "bevacizumab",
+        "context": "Drug",
+        "cuis": [
+            "C0796392"
+        ]
+    },
+    {
+        "term": "aromasin",
+        "context": "Drug",
+        "cuis": [
+            "C0876723"
+        ]
+    },
+    {
+        "term": "epirrubicina",
+        "context": "Drug",
+        "cuis": [
+            "C0014582"
+        ]
+    },
+    {
+        "term": "tch",
+        "context": "Regimen",
+        "cuis": [
+            "C1883258"
+        ]
+    },
+    {
+        "term": "fec",
+        "context": "Regimen",
+        "cuis": [
+            "C0060133"
+        ]
+    },
+    {
+        "term": "tamoxifeno",
+        "context": "Drug",
+        "cuis": [
+            "C0039286"
+        ]
+    },
+    {
+        "term": "zometa",
+        "context": "Drug",
+        "cuis": [
+            "C0939788"
+        ]
+    },
+    {
+        "term": "doxorubicina",
+        "context": "Drug",
+        "cuis": [
+            "C0013089"
+        ]
+    },
+    {
+        "term": "exemestano",
+        "context": "Drug",
+        "cuis": [
+            "C0851344"
+        ]
+    },
+    {
+        "term": "gemcitabina",
+        "context": "Drug",
+        "cuis": [
+            "C0045093"
+        ]
+    },
+    {
+        "term": "letrozol",
+        "context": "Drug",
+        "cuis": [
+            "C0246421"
+        ]
+    },
+    {
+        "term": "corticoides",
+        "context": "Drug",
+        "cuis": [
+            "C0001617"
+        ]
+    },
+    {
+        "term": "cabazitaxel",
+        "context": "Drug",
+        "cuis": [
+            "C2830183"
+        ]
+    },
+    {
+        "term": "pertuzumab",
+        "context": "Drug",
+        "cuis": [
+            "C1328025"
+        ]
+    },
+    {
+        "term": "faslodex",
+        "context": "Drug",
+        "cuis": [
+            "C0701491"
+        ]
+    },
+    {
+        "term": "trastuzumab",
+        "context": "Drug",
+        "cuis": [
+            "C0728747"
+        ]
+    },
+    {
+        "term": "zoladex",
+        "context": "Drug",
+        "cuis": [
+            "C0149473"
+        ]
+    },
+    {
+        "term": "oxaliplatino",
+        "context": "Drug",
+        "cuis": [
+            "C0069717"
+        ]
+    },
+    {
+        "term": "docetaxel",
+        "context": "Drug",
+        "cuis": [
+            "C0246415"
+        ]
+    },
+    {
+        "term": "herceptin",
+        "context": "Drug",
+        "cuis": [
+            "C0338204"
+        ]
+    },
+    {
+        "term": "tamoxifeno",
+        "context": "Drug",
+        "cuis": [
+            "C0039286"
+        ]
+    },
+    {
+        "term": "sorafenib",
+        "context": "Drug",
+        "cuis": [
+            "C1516119"
+        ]
+    },
+    {
+        "term": "goserelina",
+        "context": "Drug",
+        "cuis": [
+            "C0120107"
+        ]
+    },
+    {
+        "term": "arimidex",
+        "context": "Drug",
+        "cuis": [
+            "C0878174"
+        ]
+    },
+    {
+        "term": "carcinoma in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007099"
+        ]
+    },
+    {
+        "term": "adenocarcinoma in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334276"
+        ]
+    },
+    {
+        "term": "cancer in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0851135"
+        ]
+    },
+    {
+        "term": "cancer invasivo",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0677898"
+        ]
+    },
+    {
+        "term": "cancer mama",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0006142"
+        ]
+    },
+    {
+        "term": "carcinoma lobulillar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "carcinoma lobular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "carcinoma ductal",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1176475"
+        ]
+    },
+    {
+        "term": "carcinoma neuroendocrino",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206695"
+        ]
+    },
+    {
+        "term": "carcinoma endometrioide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206687"
+        ]
+    },
+    {
+        "term": "carcinoma intraductal",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007124"
+        ]
+    },
+    {
+        "term": "adenocarcinoma lobulillar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "adenocarcinoma lobular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "adenocarcinoma apocrino",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334346"
+        ]
+    },
+    {
+        "term": "adenocarcinoma endometrioide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1569637"
+        ]
+    },
+    {
+        "term": "cancer ductal",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1527349"
+        ]
+    },
+    {
+        "term": "carcinoma medular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206693"
+        ]
+    },
+    {
+        "term": "carcinoma papilar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007133"
+        ]
+    },
+    {
+        "term": "carcinoma tubular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0205645"
+        ]
+    },
+    {
+        "term": "carcinoma mucosino",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "carcinoma coloide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "carcinoma mucinoso",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "carcinoma mucoso",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "carcinoma mucinosa",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "carcinoma solido",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334296"
+        ]
+    },
+    {
+        "term": "carcinoma cribiforme",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0205643"
+        ]
+    },
+    {
+        "term": "carcinoma micropapilar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C3472608"
+        ]
+    },
+    {
+        "term": "carcinoma pleomorfico",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334233"
+        ]
+    },
+    {
+        "term": "carcinoma folicular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206682"
+        ]
+    },
+    {
+        "term": "adenocarcinoma medular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206693"
+        ]
+    },
+    {
+        "term": "adenocarcinoma papilar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0001420"
+        ]
+    },
+    {
+        "term": "adenocarcinoma tubular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0205645"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucosino",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "adenocarcinoma coloide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucinoso",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucoso",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucinosa",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007130"
+        ]
+    },
+    {
+        "term": "adenocarcinoma micropapilar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4518217"
+        ]
+    },
+    {
+        "term": "adenocarcinoma folicular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206682"
+        ]
+    },
+    {
+        "term": "carcinoma in situ mama",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0154084"
+        ]
+    },
+    {
+        "term": "adenocarcinoma in situ mama",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1386248"
+        ]
+    },
+    {
+        "term": "carcinoma lobulillar in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334381"
+        ]
+    },
+    {
+        "term": "carcinoma lobulillar infiltrante",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "carcinoma lobular in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334381"
+        ]
+    },
+    {
+        "term": "carcinoma ductal mama",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1527349"
+        ]
+    },
+    {
+        "term": "carcinoma ductal in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007124"
+        ]
+    },
+    {
+        "term": "carcinoma ductal infiltrante",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1412014"
+        ]
+    },
+    {
+        "term": "carcinoma intraductal in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0007124"
+        ]
+    },
+    {
+        "term": "adenocarcinoma ductal infiltrante",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1412014"
+        ]
+    },
+    {
+        "term": "cancer lobular in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334381"
+        ]
+    },
+    {
+        "term": "carcinoma papilar in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334242"
+        ]
+    },
+    {
+        "term": "carcinoma tubular in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334381"
+        ]
+    },
+    {
+        "term": "carcinoma cribiforme in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1266022"
+        ]
+    },
+    {
+        "term": "adenocarcinoma papilar infiltrante",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1321863"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucinoso in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4518218"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucoso in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4518218"
+        ]
+    },
+    {
+        "term": "adenocarcinoma mucinosa in situ",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4518218"
+        ]
+    },
+    {
+        "term": "carcinoma in situ mama derecha",
+        "context": "Diagnostico",
+        "cuis": [
+            "C5547191"
+        ]
+    },
+    {
+        "term": "carcinoma in situ mama izquierda",
+        "context": "Diagnostico",
+        "cuis": [
+            "C5547190"
+        ]
+    },
+    {
+        "term": "carcinoma ductal infiltrante de cuadrante superoexterno de mama derecha",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4302586"
+        ]
+    },
+    {
+        "term": "carcinoma ductal infiltrante de cuadrante superoexterno de mama izquierda",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4302590"
+        ]
+    },
+    {
+        "term": "carcinoma lobular in situ de mama derecha",
+        "context": "Diagnostico",
+        "cuis": [
+            "C2865371"
+        ]
+    },
+    {
+        "term": "carcinoma ductal infiltrante mama",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1134719"
+        ]
+    },
+    {
+        "term": "boost",
+        "context": "Procedimiento",
+        "cuis": [
+            "C2919491"
+        ]
+    },
+    {
+        "term": "homonoterapia",
+        "context": "Tratamiento",
+        "cuis": [
+            "C0279025"
+        ]
+    },
+    {
+        "term": "carcinoma endometroide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206687"
+        ]
+    },
+    {
+        "term": "fac",
+        "context": "Regimen",
+        "cuis": [
+            "C4521258"
+        ]
+    },
+    {
+        "term": "neurocirugia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0524850"
+        ]
+    },
+    {
+        "term": "hiperplasia lobulillar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0333989"
+        ]
+    },
+    {
+        "term": "carcinoma cervical",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0302592"
+        ]
+    },
+    {
+        "term": "akynzeo",
+        "context": "Drug",
+        "cuis": [
+            "C3858030"
+        ]
+    },
+    {
+        "term": "tumor vascular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0282607"
+        ]
+    },
+    {
+        "term": "eutirox",
+        "context": "Drug",
+        "cuis": [
+            "C0720313"
+        ]
+    },
+    {
+        "term": "rt",
+        "context": "Tratamiento",
+        "cuis": [
+            "C1522449"
+        ]
+    },
+    {
+        "term": "carcinoma hepatica",
+        "context": "Diagnostico",
+        "cuis": [
+            "C2239176"
+        ]
+    },
+    {
+        "term": "extirpacion",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0728940"
+        ]
+    },
+    {
+        "term": "carcinoma oseo",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0700110"
+        ]
+    },
+    {
+        "term": "biopsia ganglio linf\u00e1tico centinela",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0796693"
+        ]
+    },
+    {
+        "term": "re-irradiacion",
+        "context": "Tratamiento",
+        "cuis": [
+            "C4042794"
+        ]
+    },
+    {
+        "term": "eribulina",
+        "context": "Drug",
+        "cuis": [
+            "C2350866"
+        ]
+    },
+    {
+        "term": "zevalin",
+        "context": "Drug",
+        "cuis": [
+            "C0919274"
+        ]
+    },
+    {
+        "term": "nodulo pulmonar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0034079"
+        ]
+    },
+    {
+        "term": "enfermedad hepatica",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0023895"
+        ]
+    },
+    {
+        "term": "taxanos",
+        "context": "Drug",
+        "cuis": [
+            "C0796419"
+        ]
+    },
+    {
+        "term": "progesterona",
+        "context": "Drug",
+        "cuis": [
+            "C0033308"
+        ]
+    },
+    {
+        "term": "cuadrantectomia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0337354"
+        ]
+    },
+    {
+        "term": "carcinoma suprarenal",
+        "context": "Drug",
+        "cuis": [
+            "C0206686"
+        ]
+    },
+    {
+        "term": "carboplatino-gemcitabina",
+        "context": "Drug",
+        "cuis": [
+            "C4522213"
+        ]
+    },
+    {
+        "term": "braquiterapia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0006098"
+        ]
+    },
+    {
+        "term": "myocet",
+        "context": "Drug",
+        "cuis": [
+            "C1512062"
+        ]
+    },
+    {
+        "term": "aromasil",
+        "context": "Drug",
+        "cuis": [
+            "C0876723"
+        ]
+    },
+    {
+        "term": "zoledronato",
+        "context": "Drug",
+        "cuis": [
+            "C0392938",
+            "C0257685"
+        ]
+    },
+    {
+        "term": "biopsia ganglio centinela",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0796693"
+        ]
+    },
+    {
+        "term": "biopsia selectiva ganglio centinela",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0796693"
+        ]
+    },
+    {
+        "term": "carcinoma cerebral",
+        "context": "Diagnostico",
+        "cuis": [
+            "C3163932"
+        ]
+    },
+    {
+        "term": "reseccion",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0728940",
+            "C0015252"
+        ]
+    },
+    {
+        "term": "irradiacion",
+        "context": "Tratamiento",
+        "cuis": [
+            "C1522449"
+        ]
+    },
+    {
+        "term": "carboplatino-paclitaxel",
+        "context": "Drug",
+        "cuis": [
+            "C1880002"
+        ]
+    },
+    {
+        "term": "biopsia con aguja gruesa",
+        "context": "Procedimiento",
+        "cuis": [
+            "C1318309"
+        ]
+    },
+    {
+        "term": "ribociclib",
+        "context": "Drug",
+        "cuis": [
+            "C4045494"
+        ]
+    },
+    {
+        "term": "selpercatinib",
+        "context": "Drug",
+        "cuis": [
+            "C5235396"
+        ]
+    },
+    {
+        "term": "carcinoma mamario",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0678222"
+        ]
+    },
+    {
+        "term": "ooforectomia profilactica",
+        "context": "Procedimiento",
+        "cuis": [
+            "C2945703"
+        ]
+    },
+    {
+        "term": "folfox",
+        "context": "Regimen",
+        "cuis": [
+            "C0392943"
+        ]
+    },
+    {
+        "term": "antibioterapia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0338237"
+        ]
+    },
+    {
+        "term": "mastectomia radical",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0024884"
+        ]
+    },
+    {
+        "term": "cirugia mandibular",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0407713"
+        ]
+    },
+    {
+        "term": "fibrotecoma ovarica",
+        "context": "Diagnostico",
+        "cuis": [
+            "C4707356"
+        ]
+    },
+    {
+        "term": "colecistectomia",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0008320"
+        ]
+    },
+    {
+        "term": "liposarcoma mixoide",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206634"
+        ]
+    },
+    {
+        "term": "zoledronic",
+        "context": "Drug",
+        "cuis": [
+            "C1177229"
+        ]
+    },
+    {
+        "term": "fibroma ovarico",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0149951"
+        ]
+    },
+    {
+        "term": "cancer papilar de tiroides",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0238463"
+        ]
+    },
+    {
+        "term": "carcinoma meningea",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0949043"
+        ]
+    },
+    {
+        "term": "mastectomia radical modificada",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0024883"
+        ]
+    },
+    {
+        "term": "xentuzumab",
+        "context": "Drug",
+        "cuis": [
+            "C4508939"
+        ]
+    },
+    {
+        "term": "anexectomia",
+        "context": "Drug",
+        "cuis": [
+            "C0036132"
+        ]
+    },
+    {
+        "term": "vinorelbina",
+        "context": "Drug",
+        "cuis": [
+            "C0078257"
+        ]
+    },
+    {
+        "term": "tumor multifocal",
+        "context": "Diagnostico",
+        "cuis": [
+            "C1302461"
+        ]
+    },
+    {
+        "term": "carcinoma intraquistico",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0334376"
+        ]
+    },
+    {
+        "term": "carcinoma vagina",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0262659"
+        ]
+    },
+    {
+        "term": "carcinoma infiltrante lobular",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    },
+    {
+        "term": "mastectomia simple",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0024886"
+        ]
+    },
+    {
+        "term": "biopsias",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0005558"
+        ]
+    },
+    {
+        "term": "carcinoma pulmonar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0684249"
+        ]
+    },
+    {
+        "term": "tumor philiodes",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0010701"
+        ]
+    },
+    {
+        "term": "cancer metastasico",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0346957"
+        ]
+    },
+    {
+        "term": "palbociclib",
+        "context": "Drug",
+        "cuis": [
+            "C3853822"
+        ]
+    },
+    {
+        "term": "neoplasia lobulillar",
+        "context": "Procedimiento",
+        "cuis": [
+            "C0334381"
+        ]
+    },
+    {
+        "term": "carcinomatosis",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0205699"
+        ]
+    },
+    {
+        "term": "reconstruccion mamaria con colgajo de DIEP",
+        "context": "Procedimiento",
+        "cuis": [
+            "C5577776"
+        ]
+    },
+    {
+        "term": "diep",
+        "context": "Procedimiento",
+        "cuis": [
+            "C5577776"
+        ]
+    },
+    {
+        "term": "ca lobulillar",
+        "context": "Diagnostico",
+        "cuis": [
+            "C0206692"
+        ]
+    }
+]

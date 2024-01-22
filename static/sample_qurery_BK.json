@@ -1,0 +1,35 @@
+{"should": [
+    {
+        "function_score": {
+            "query": {
+                "multi_match": {
+                    "query": "carcinoma mama derecha",
+                    "fields": ["label"],
+                    "fuzziness": "AUTO"
+                }
+            },
+            "script_score": {
+                "script": {
+                    "source": "10 / new StringTokenizer(params['_source']['label']).countTokens()"
+                }
+            },
+            "boost_mode": "sum"
+        }
+    },
+    {
+        "match": {
+            "label": {
+                "query": "cancer",
+                "boost": 0.8
+            }
+        }
+    },
+    {
+        "match": {
+            "label": {
+                "query": "carcinoma",
+                "boost": 0.8
+            }
+        }
+    }
+]}
