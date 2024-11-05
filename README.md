@@ -64,7 +64,7 @@ Install dependencies:
 
 ### Acknowledgments
 
-- This research is based on the paper [NSCC: A Neuro-Symbolic AI System for Enhancing Accuracy of Named Entity Recognition and Linking from Oncological Clinical Notes](https://link.springer.com/article/10.1007/s11042-024-19209-5), published in [journal]().
+- This research is based on the paper [NSCC: A Neuro-Symbolic AI System for Enhancing Accuracy of Named Entity Recognition and Linking from Oncological Clinical Notes](https://link.springer.com/article/10.1007/s11517-024-03227-4), published in [Medical & Biological Engineering & Computing](https://link.springer.com/journal/11517).
 - If you find it useful you can cite it in:
 ```bibtext
 @article{10.1007/s11517-024-03227-4, 
