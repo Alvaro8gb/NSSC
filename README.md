@@ -1,4 +1,5 @@
 # NSSC: Neuro-Symbolic System for Cancer
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14042506.svg)](https://doi.org/10.5281/zenodo.14042506)
 
 
 NSCC is a system designed to address the challenge of **oncological entity linking** in clinical narratives written in Spanish. The repository contains a variety of components, each contributing to different aspects of the system's functionality.
