@@ -67,5 +67,14 @@ Install dependencies:
 - This research is based on the paper [NSCC: A Neuro-Symbolic AI System for Enhancing Accuracy of Named Entity Recognition and Linking from Oncological Clinical Notes](https://link.springer.com/article/10.1007/s11042-024-19209-5), published in [journal]().
 - If you find it useful you can cite it in:
 ```bibtext
-
+@article{10.1007/s11517-024-03227-4, 
+year = {2024}, 
+title = {{NSSC: a neuro-symbolic AI system for enhancing accuracy of named entity recognition and linking from oncologic clinical notes}}, 
+author = {García-Barragán, Álvaro and Sakor, Ahmad and Vidal, Maria-Esther and Menasalvas, Ernestina and Gonzalez, Juan Cristobal Sanchez and Provencio, Mariano and Robles, Víctor}, 
+journal = {Medical \& Biological Engineering \& Computing}, 
+issn = {0140-0118}, 
+doi = {10.1007/s11517-024-03227-4}, 
+abstract = {{Accurate recognition and linking of oncologic entities in clinical notes is essential for extracting insights across cancer research, patient care, clinical decision-making, and treatment optimization. We present the Neuro-Symbolic System for Cancer (NSSC), a hybrid AI framework that integrates neurosymbolic methods with named entity recognition (NER) and entity linking (EL) to transform unstructured clinical notes into structured terms using medical vocabularies, with the Unified Medical Language System (UMLS) as a case study. NSSC was evaluated on a dataset of clinical notes from breast cancer patients, demonstrating significant improvements in the accuracy of both entity recognition and linking compared to state-of-the-art models. Specifically, NSSC achieved a 33\% improvement over BioFalcon and a 58\% improvement over scispaCy. By combining large language models (LLMs) with symbolic reasoning, NSSC improves the recognition and interoperability of oncologic entities, enabling seamless integration with existing biomedical knowledge. This approach marks a significant advancement in extracting meaningful information from clinical narratives, offering promising applications in cancer research and personalized patient care.}}, 
+pages = {1--24}
+}
 ```
